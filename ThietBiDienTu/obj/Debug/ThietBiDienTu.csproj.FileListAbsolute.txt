@@ -1,0 +1,537 @@
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\ThietBiDienTu.dll.config
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\ThietBiDienTu.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\ThietBiDienTu.pdb
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\csc.exe
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\csc.exe.config
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\csc.rsp
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\csi.exe
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\csi.exe.config
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\csi.rsp
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\System.AppContext.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\System.Console.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\System.IO.Compression.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\System.IO.Pipes.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\System.Security.Claims.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\System.ValueTuple.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\vbc.exe
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\vbc.exe.config
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\vbc.rsp
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\VBCSCompiler.exe
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Antlr3.Runtime.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\EntityFramework.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\EntityFramework.SqlServer.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.Owin.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.Owin.Security.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Newtonsoft.Json.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Owin.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\System.Web.Helpers.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\System.Web.Mvc.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\System.Web.Optimization.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\System.Web.Razor.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\System.Web.WebPages.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\System.Web.WebPages.Razor.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\WebGrease.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\EntityFramework.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\EntityFramework.SqlServer.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\System.Web.Helpers.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\System.Web.Mvc.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\System.Web.Optimization.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\System.Web.Razor.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\System.Web.WebPages.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\System.Web.WebPages.Razor.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Newtonsoft.Json.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Antlr3.Runtime.pdb
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.Owin.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.Owin.Security.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\obj\Debug\ThietBiDienTu.csproj.CoreCompileInputs.cache
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\obj\Debug\ThietBiDienTu.csproj.CopyComplete
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\obj\Debug\ThietBiDienTu.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\obj\Debug\ThietBiDienTu.pdb
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\obj\Debug\ThietBiDienTu.Migrations.Update.resources
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\obj\Debug\ThietBiDienTu.csproj.GenerateResource.cache
+C:\Users\CorgiBear\source\repos\ThietBiDienTu\ThietBiDienTu\obj\Debug\ThietBiDienTu.csprojAssemblyReference.cache
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.csprojAssemblyReference.cache
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.Migrations.Update.resources
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.csproj.GenerateResource.cache
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.csproj.CoreCompileInputs.cache
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.pdb
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\ThietBiDienTu.dll.config
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\ThietBiDienTu.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\ThietBiDienTu.pdb
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\csc.exe
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\csc.exe.config
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\csc.rsp
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\csi.exe
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\csi.exe.config
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\csi.rsp
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.AppContext.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Console.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.IO.Compression.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.IO.Pipes.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.Claims.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.ValueTuple.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\vbc.exe
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\vbc.exe.config
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\vbc.rsp
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\VBCSCompiler.exe
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Antlr3.Runtime.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\EntityFramework.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\EntityFramework.SqlServer.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Newtonsoft.Json.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Owin.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Helpers.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Mvc.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Optimization.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Razor.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.WebPages.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.WebPages.Razor.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\WebGrease.dll
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\EntityFramework.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\EntityFramework.SqlServer.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Helpers.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Mvc.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Optimization.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Razor.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.WebPages.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.WebPages.Razor.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Newtonsoft.Json.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Antlr3.Runtime.pdb
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.csproj.CopyComplete
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.Migrations.UpdateDB.resources
+C:\Users\CorgiBear\source\repos\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.Migrations.UpdateRole2.resources
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\ThietBiDienTu.dll.config
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\ThietBiDienTu.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\ThietBiDienTu.pdb
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\csc.exe
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\csc.exe.config
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\csc.rsp
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\csi.exe
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\csi.exe.config
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\csi.rsp
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.AppContext.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Collections.Immutable.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Console.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.IO.Compression.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.IO.FileSystem.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.IO.Pipes.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Reflection.Metadata.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.AccessControl.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.Claims.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.ValueTuple.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Xml.XPath.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\vbc.exe
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\vbc.exe.config
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\vbc.rsp
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\VBCSCompiler.exe
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\VBCSCompiler.exe.config
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Antlr3.Runtime.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\EntityFramework.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\EntityFramework.SqlServer.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Google.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Web.Infrastructure.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Newtonsoft.Json.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Owin.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Helpers.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Mvc.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Optimization.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Razor.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.WebPages.Deployment.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.WebPages.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.WebPages.Razor.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\WebGrease.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\EntityFramework.xml
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\EntityFramework.SqlServer.xml
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Helpers.xml
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Mvc.xml
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Optimization.xml
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Razor.xml
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.WebPages.xml
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.WebPages.Deployment.xml
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.WebPages.Razor.xml
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Newtonsoft.Json.xml
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Antlr3.Runtime.pdb
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.xml
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.xml
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Google.xml
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.csproj.CoreCompileInputs.cache
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.csproj.CopyComplete
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.dll
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.pdb
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.csprojAssemblyReference.cache
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.Migrations.UpdateKey.resources
+F:\Desktop\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.csproj.GenerateResource.cache
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\ThietBiDienTu.dll.config
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\ThietBiDienTu.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\ThietBiDienTu.pdb
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\csc.exe
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\csc.exe.config
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\csc.rsp
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\csi.exe
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\csi.exe.config
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\csi.rsp
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.Managed.Core.targets
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.AppContext.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Collections.Immutable.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Console.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.IO.Compression.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.IO.FileSystem.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.IO.Pipes.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Reflection.Metadata.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.AccessControl.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.Claims.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.Principal.Windows.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.ValueTuple.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Xml.XmlDocument.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Xml.XPath.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\vbc.exe
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\vbc.exe.config
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\vbc.rsp
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\VBCSCompiler.exe
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\VBCSCompiler.exe.config
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Antlr3.Runtime.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\EntityFramework.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\EntityFramework.SqlServer.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.AspNet.Identity.Core.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Cookies.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Facebook.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Google.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.OAuth.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Twitter.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Web.Infrastructure.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Newtonsoft.Json.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Owin.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Helpers.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Mvc.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Optimization.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Razor.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.WebPages.Deployment.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.WebPages.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.WebPages.Razor.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\WebGrease.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\EntityFramework.xml
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\EntityFramework.SqlServer.xml
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Helpers.xml
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Mvc.xml
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Optimization.xml
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Razor.xml
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.WebPages.xml
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.WebPages.Deployment.xml
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.WebPages.Razor.xml
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Newtonsoft.Json.xml
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Antlr3.Runtime.pdb
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.AspNet.Identity.Core.xml
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.xml
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.xml
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Facebook.xml
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Cookies.xml
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Google.xml
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Twitter.xml
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.OAuth.xml
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.csprojAssemblyReference.cache
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.Migrations.UpdateKey.resources
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.csproj.GenerateResource.cache
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.csproj.CoreCompileInputs.cache
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.csproj.CopyComplete
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.dll
+F:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.pdb
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\ThietBiDienTu.dll.config
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\ThietBiDienTu.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\ThietBiDienTu.pdb
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\csc.exe
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\csc.exe.config
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\csc.rsp
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\csi.exe
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\csi.exe.config
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\csi.rsp
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.AppContext.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Collections.Immutable.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Console.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.IO.Compression.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.IO.FileSystem.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.IO.Pipes.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Reflection.Metadata.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.AccessControl.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.Claims.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Security.Principal.Windows.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.ValueTuple.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Xml.XPath.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\vbc.exe
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\vbc.exe.config
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\vbc.rsp
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\VBCSCompiler.exe
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\roslyn\VBCSCompiler.exe.config
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Antlr3.Runtime.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\EntityFramework.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\EntityFramework.SqlServer.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.AspNet.Identity.Core.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Cookies.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Facebook.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Google.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.OAuth.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Twitter.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Web.Infrastructure.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Newtonsoft.Json.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Owin.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Helpers.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Mvc.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Optimization.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Razor.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.WebPages.Deployment.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.WebPages.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.WebPages.Razor.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\WebGrease.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\EntityFramework.xml
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\EntityFramework.SqlServer.xml
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Helpers.xml
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Mvc.xml
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Optimization.xml
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.Razor.xml
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.WebPages.xml
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.WebPages.Deployment.xml
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\System.Web.WebPages.Razor.xml
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Newtonsoft.Json.xml
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Antlr3.Runtime.pdb
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.AspNet.Identity.Core.xml
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.xml
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.xml
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Facebook.xml
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Cookies.xml
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Google.xml
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.Twitter.xml
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.Owin.Security.OAuth.xml
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.csprojAssemblyReference.cache
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.Migrations.UpdateKey.resources
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.csproj.GenerateResource.cache
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.csproj.CoreCompileInputs.cache
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.csproj.CopyComplete
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.dll
+D:\HUFLIT\Nam 3\DA1\ThietBiDienTu2\ThietBiDienTu\obj\Debug\ThietBiDienTu.pdb

@@ -1,0 +1,87 @@
+﻿@model ThietBiDienTu.Models.Cart
+@{
+    ViewBag.Title = "ShowToCart";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Giỏ hàng:</h2>
+@if (Model != null)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Tên sản phẩm</th>
+                <th>Hình ảnh</th>
+                <th>Giá</th>
+                <th>Số lượng</th>
+                <th>Tổng tiền</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in Model.Items)
+            {
+                double total = item.shoppingProduct.ProductPrice * item.shoppingQuantity;
+            <tr>
+                <td>
+                    @Html.DisplayFor(model => item.shoppingProduct.ProductName)
+                </td>
+                <td>
+                    <img src="~/Images/@item.shoppingProduct.ProductImage" style="width:100px;height:100px;" />
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.shoppingProduct.ProductPrice)
+                </td>
+                <td>
+                    @using (Html.BeginForm("UpdateQuantityCart", "ShoppingCart"))
+                    {
+                        <input type="hidden" value="@item.shoppingProduct.ProductID" name="ID_Product" />
+                        <input type="number" value="@item.shoppingQuantity" name="Quantity" />
+                        <input type="submit" value="Update" />
+                    }
+
+                </td>
+                <td>
+                    Total: @total
+                </td>
+                <td>
+                    <a href="/ShoppingCart/RemoveCart/@item.shoppingProduct.ProductID">Remove</a>
+                </td>
+            </tr>
+            }
+
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="2"></td>
+                <td colspan="4" style="text-align:center">
+                    @using (Html.BeginForm("CheckOut", "ShoppingCart"))
+                    {
+                        <table style="border-collapse:separate; border-spacing:5px">
+                            <tr>
+                                <td>
+                                    Delivery Address :
+                                </td>
+                                <td>
+                                    <input type="text" name="DeliveryAddress" required />
+                                </td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>
+                                    <input type="submit" value="Check Out" class="btn btn-success" />
+                                </td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    }
+
+                </td>
+            </tr>
+            <tr>
+                <td colspan="5" style="text-align:right;font-size:large">Tổng tiền: @Model.TotalMoney()</td>
+            </tr>
+        </tfoot>
+    </table>
+    <a class="btn btn-success" href="@Url.Action("ShowProduct","Products")" style="margin-bottom:10px">Continue to shopping</a>
+}
+

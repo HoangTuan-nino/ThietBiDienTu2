@@ -1,0 +1,31 @@
+﻿@model ThietBiDienTu.Models.Producer
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<style>
+
+    .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        max-width: 300px;
+        margin: auto;
+        text-align: center;
+    }
+
+    .title {
+        color: grey;
+        font-size: 18px;
+    }
+</style>
+<h2>Chi tiết nhà sản xuất</h2>
+<hr />
+@Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-primary" })
+<div class="card">
+    <h2>Tên NSX: @Html.DisplayFor(model => model.ProducerName)</h2>
+    <h3>Địa chỉ: @Html.DisplayFor(model => model.ProducerAddress)</h3>
+    <p>Email: @Html.DisplayFor(model => model.ProducerEmail)</p>
+    <p>Số điện thoại: @Html.DisplayFor(model => model.ProducerPhone)</p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ProducerID }, new { @class = "btn btn-danger" })
+</div>

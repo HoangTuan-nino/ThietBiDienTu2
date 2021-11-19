@@ -1,0 +1,32 @@
+﻿@model ThietBiDienTu.Models.OrderDetail
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<style>
+
+    .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        max-width: 300px;
+        margin: auto;
+        text-align: center;
+    }
+
+    .title {
+        color: grey;
+        font-size: 18px;
+    }
+</style>
+
+<h2>Chi tiết hóa đơn</h2>
+<hr />
+@Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-primary" })
+<div class="card">
+    <h2>UserID: @Html.DisplayFor(model => model.Order.UserId)</h2>
+    <h3>Tên sản phẩm: @Html.DisplayFor(model => model.Product.ProductName)</h3>
+    <p>Giá: @Html.DisplayFor(model => model.UnitPriceSale)</p>
+    <p>Số lượng: @Html.DisplayFor(model => model.QuantitySale)</p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.OrderDetailID }, new { @class = "btn btn-danger" })
+</div>

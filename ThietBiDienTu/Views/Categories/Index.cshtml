@@ -1,0 +1,41 @@
+﻿@model IEnumerable<ThietBiDienTu.Models.Category>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-primary" })
+</p>
+<table class="table table-bordered table-striped table-hover">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CategoryName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.CategoryID }, new { @class = "btn btn-danger", Style = "width:100px" })
+                @Html.ActionLink("Details", "Details", new { id = item.CategoryID }, new { @class = "btn btn-warning", Style = "width:100px" })
+                @Html.ActionLink("Delete", "Delete", new { id = item.CategoryID }, new { @class = "btn btn-success", Style = "width:100px" })
+            </td>
+        </tr>
+    }
+
+</table>

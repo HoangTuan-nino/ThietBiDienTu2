@@ -1,0 +1,60 @@
+﻿@model IEnumerable<ThietBiDienTu.Models.Product>
+@{
+    ViewBag.Title = "ShowProduct";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" 
+      integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+
+<style>
+
+    .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        max-width: 300px;
+        margin: 10px;
+        text-align: center;
+        float: left;
+        background-color: white;
+        border: outset;
+        color: black;
+        width: 250px;
+    }
+
+        .card img {
+            width: 100%;
+            min-height: 211px;
+            min-width: 196px;
+        }
+
+    .title {
+        color: green;
+        font-size: 18px;
+    }
+</style>
+<section style="margin:15px">
+    @using (Html.BeginForm("ProductByName", "Products"))
+    {
+        <h3>Nhập tên sản phẩm cần tìm</h3>
+        <input type="text" name="productName" />
+        <input type="submit" />
+    }
+</section>
+
+@foreach (var item in Model)
+{
+    <div class="card clearfix">
+        <img src="~/Images/@Html.DisplayFor(modelItem => item.ProductImage)" alt="HinhSP">
+        <h3 style="height:80px">@Html.DisplayFor(modelItem => item.ProductName)</h3>
+        <p class="title">@Html.DisplayFor(modelItem => item.ProductPrice) Đ</p>
+        <p>Tình trạng: @Html.DisplayFor(modelItem => item.Status) </p>
+        <p class="btn-add">
+            <i class="fa fa-shopping-cart"></i><a href="/ShoppingCart/AddToCart/@item.ProductID" class="hidden-sm">  Add to cart</a>
+        </p>
+        <p class="btn-details">
+            <i class="fa fa-list"></i>
+            @Html.ActionLink("Details", "Details", new { id = item.ProductID })
+        </p>
+    </div>
+}
+

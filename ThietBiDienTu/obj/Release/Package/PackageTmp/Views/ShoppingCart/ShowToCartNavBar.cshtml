@@ -1,0 +1,50 @@
+﻿@model ThietBiDienTu.Models.Cart
+@if (Model != null)
+{
+    <table style="color:black" class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Image</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Sum</th>
+                <td></td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Items)
+            {
+                double total = item.shoppingProduct.ProductPrice * item.shoppingQuantity;
+                <tr>
+                    <td>
+                        @Html.DisplayFor(model => item.shoppingProduct.ProductName)
+                    </td>
+                    <td>
+                        <img src="~/Images/@item.shoppingProduct.ProductImage" style="width:100px;height:100px;" />
+                    </td>
+                    <td>
+                        @Html.DisplayFor(model => item.shoppingProduct.ProductPrice)
+                    </td>
+                    <td>
+                        @using (Html.BeginForm("UpdateQuantityCart", "ShoppingCart"))
+                        {
+                            <input type="hidden" value="@item.shoppingProduct.ProductID" name="ID_Product" />
+                            <input type="number" value="@item.shoppingQuantity" name="Quantity" />
+                            <input type="submit" value="Update" />
+                        }
+
+                    </td>
+                    <td>
+                        @total
+                    </td>
+                    <td>
+                        <a class="btn btn-danger" href="/ShoppingCart/RemoveCart/@item.shoppingProduct.ProductID">X</a>
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+    <a style="margin:10px" class="btn btn-success" href="/ShoppingCart/ShowToCart">Giỏ hàng</a>
+}

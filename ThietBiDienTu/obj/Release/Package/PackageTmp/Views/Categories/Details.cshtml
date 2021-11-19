@@ -1,0 +1,30 @@
+﻿@model ThietBiDienTu.Models.Category
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<style>
+
+    .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        max-width: 300px;
+        margin: auto;
+        text-align: center;
+    }
+
+    .title {
+        color: grey;
+        font-size: 18px;
+    }
+</style>
+
+<h2>Chi tiết hóa đơn</h2>
+<hr />
+@Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-primary" })
+<div class="card">
+    <h2>Tên loại : @Html.DisplayFor(model => model.CategoryName)</h2>
+    <h3>Mô tả : @Html.DisplayFor(model => model.Description)</h3>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.CategoryID }, new { @class = "btn btn-danger" })
+</div>

@@ -1,0 +1,50 @@
+﻿@model ThietBiDienTu.Models.Product
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<style>
+    h3 {
+        color: red;
+        text-align: center;
+    }
+
+
+
+    .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        max-width: 300px;
+        margin: auto;
+        text-align: center;
+    }
+
+    .title {
+        color: grey;
+        font-size: 18px;
+    }
+</style>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+}
+<div class="row" style="margin-bottom:10px">
+    <div class="col-sm-5">
+        <img src="~/Images/@Html.DisplayFor(model => model.ProductImage)" alt="QuanLy" style="width:100%">
+    </div>
+    <div class="col-sm-7">
+        <h2 style="height:auto">Tên sản phẩm : @Html.DisplayFor(model => model.ProductName)</h2>
+        <p>Loại sản phẩm : @Html.DisplayFor(model => model.Category.CategoryName)</p>
+        <p>Tên NSX: @Html.DisplayFor(model => model.Producer.ProducerName)</p>
+        <p>Tình trạng : @Html.DisplayFor(model => model.Status)</p>
+        <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+        <h2>Giá : @Html.DisplayFor(model => model.ProductPrice)</h2>
+    </div>
+    <button class="btn btn-danger">
+        <a href="/ShoppingCart/AddToCart/@ViewBag.productID" style="color:white">Add To Cart</a>
+    </button>
+
+</div>
